@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>item 1</key>
+	<dict>
+		<key>name</key>
+		<string>Bánh Trưng</string>
+		<key>photo</key>
+		<string>banhtrung</string>
+		<key>chitiet</key>
+		<string>Bánh chưng là một loại bánh truyền thống của dân tộc Việt nhằm thể hiện lòng biết ơn của con cháu đối với cha ông và đất trời xứ sở</string>
+	</dict>
+	<key>item 2</key>
+	<dict>
+		<key>name</key>
+		<string>Canh Măng</string>
+		<key>photo</key>
+		<string>canhmang</string>
+		<key>chitiet</key>
+		<string>Canh măng cũng là một món không thể thiếu trong mâm cỗ ngày Tết. Canh măng thơm lừng, béo ngậy và nóng hổi là một món ăn hấp dẫn cho những ngày se lạnh</string>
+	</dict>
+	<key>item 3</key>
+	<dict>
+		<key>name</key>
+		<string>Giò Chả</string>
+		<key>photo</key>
+		<string>giocha</string>
+		<key>chitiet</key>
+		<string>Giò lụa, giò chả hay chả lụa (phương ngữ Nam bộ) là tên gọi của món ăn được làm từ hai nguyên liệu cơ bản là thịt nạc thăn lợn giã nhuyễn kết hợp với nước mắm ngon, gói trong lá chuối và luộc chín</string>
+	</dict>
+	<key>item 4</key>
+	<dict>
+		<key>name</key>
+		<string>Mứt</string>
+		<key>photo</key>
+		<string>mut</string>
+		<key>chitiet</key>
+		<string>Mứt, mứt trái cây hay mứt quả là một loại thực phẩm ngọt có thể được tìm thấy ở nhiều nước trên thế giới, nó được chế biến các loại trái cây và một số loại củ nấu với đường đến độ khô từ 65-70%. </string>
+	</dict>
+	<key>item 5</key>
+	<dict>
+		<key>name</key>
+		<string>Nem Chua</string>
+		<key>photo</key>
+		<string>nemchua</string>
+		<key>chitiet</key>
+		<string>Nem chua (phương ngữ Bắc Bộ) hay nem (phương ngữ Trung Bộ và phương ngữ Nam Bộ) là một món ăn sử dụng thịt lợn, lợi dụng men của lá (lá ổi, lá sung v.v.) và thính gạo để ủ chín, có vị chua ngậy.</string>
+	</dict>
+	<key>item 6</key>
+	<dict>
+		<key>name</key>
+		<string>Sườn Nướng</string>
+		<key>photo</key>
+		<string>suonnuong</string>
+		<key>chitiet</key>
+		<string>Sườn nướng là một món ăn phổ biến được chế biến bằng sườn của động vật (thường là sườn heo hay sườn cừu) với phương pháp nướng</string>
+	</dict>
+	<key>item 7</key>
+	<dict>
+		<key>name</key>
+		<string>Thịt Bò Khô</string>
+		<key>photo</key>
+		<string>thitbokho</string>
+		<key>chitiet</key>
+		<string>Khô bò hay thịt bò khô là thịt bò lọc bỏ mỡ, đem ướp gia vị mặn ngọt rồi sấy khô ở nhiệt độ thấp (khoảng 70 °C). Thịt này đôi khi được đem muối hoặc phơi nắng.</string>
+	</dict>
+	<key>item 8</key>
+	<dict>
+		<key>name</key>
+		<string>Thịt Gà</string>
+		<key>photo</key>
+		<string>thitga</string>
+		<key>chitiet</key>
+		<string>Thịt gà là thứ không thể thiếu trong các buổi lễ cúng giỗ.</string>
+	</dict>
+	<key>item 9</key>
+	<dict>
+		<key>name</key>
+		<string>Ba Chỉ Cuốn Rau Củ</string>
+		<key>photo</key>
+		<string>bachicuonraucu</string>
+		<key>chitiet</key>
+		<string>Đây là món ăn ngon được rất nhieuf người yêu thích</string>
+	</dict>
+</dict>
+</plist>

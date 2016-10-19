@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "e648a9998fb1904e6826fa0053edb897"
+build_time: [522495902, 830197000]
+inputs:
+  "/Users/dangcan/Downloads/game2048/game2048/ViewController.swift": [522495902, 0]
+  "/Users/dangcan/Downloads/game2048/game2048/AppDelegate.swift": [505384737, 0]

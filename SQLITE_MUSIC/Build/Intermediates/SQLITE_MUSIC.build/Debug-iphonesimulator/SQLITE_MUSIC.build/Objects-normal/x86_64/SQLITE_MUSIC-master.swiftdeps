@@ -1,0 +1,22 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "6cd8ab3baf38c67390417447da53ead2"
+build_time: [522903424, 223159000]
+inputs:
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/TableViewCellBase.swift": [522589786, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/TableViewCellPlaylist.swift": [522588358, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/ViewAlbums.swift": [522556936, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/ViewController.swift": [522493227, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/Label.swift": [522592476, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/TableViewCellSong.swift": [522590902, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/TableViewCellArtist.swift": [522588345, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/ViewSongs.swift": [522594966, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/ViewArtists.swift": [522577791, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/ViewPlaylists.swift": [522556936, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/AddView.swift": !private [522735558, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/ListView.swift": [522596631, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/ViewControllerTableBase.swift": [522594258, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/AppDelegate.swift": [522468061, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/Protocol.swift": [522594674, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/ViewControllerBase.swift": [522594258, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/ViewControllerCollectionBase.swift": [522573658, 0]
+  "/Users/dangcan/Desktop/SQLITE_MUSIC/SQLITE_MUSIC/DataBase.swift": [522577791, 0]

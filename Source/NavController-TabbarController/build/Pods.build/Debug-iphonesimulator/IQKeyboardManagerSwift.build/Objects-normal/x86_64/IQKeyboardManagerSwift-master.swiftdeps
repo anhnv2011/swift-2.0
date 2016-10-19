@@ -1,0 +1,20 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "cc5b9d23d628b2af2de4301668d7e7c6"
+build_time: [522250428, 50592000]
+inputs:
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQBarButtonItem.swift": [521954377, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardManager.swift": [521954377, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstants.swift": [521954377, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstantsInternal.swift": [521954377, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardReturnKeyHandler.swift": [521954377, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQNSArray+Sort.swift": [521954377, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQPreviousNextView.swift": [521954377, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQTextView/IQTextView.swift": [521954377, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQTitleBarButtonItem.swift": [521954377, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQToolbar.swift": [521954377, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQUIScrollView+Additions.swift": [521954377, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQUITextFieldView+Additions.swift": [521954377, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQUIView+Hierarchy.swift": [521954377, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQUIView+IQKeyboardToolbar.swift": [521954377, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQUIViewController+Additions.swift": [521954377, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQUIWindow+Hierarchy.swift": [521954377, 0]

@@ -1,0 +1,147 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SignUpViewController"
+provides-nominal:
+- "C30NavController_TabbarController20SignUpViewController"
+provides-member:
+- ["C30NavController_TabbarController20SignUpViewController", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+- "logoTopContraint"
+depends-top-level:
+- "SignUpViewController"
+- "BaseViewController"
+- "NSLayoutConstraint"
+depends-member:
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "logoTopContraint"]
+- !private ["Ps9AnyObject", "updateContraint"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- ["C30NavController_TabbarController18BaseViewController", "NSLayoutConstraint"]
+- ["C30NavController_TabbarController18BaseViewController", "init"]
+- ["C30NavController_TabbarController18BaseViewController", "logoTopContraint"]
+- !private ["C30NavController_TabbarController18BaseViewController", "updateContraint"]
+- ["C30NavController_TabbarController18BaseViewController", "viewDidLoad"]
+- ["C30NavController_TabbarController18BaseViewController", ""]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "logoTopContraint"]
+- !private ["Ps11CVarArgType", "updateContraint"]
+- ["Ps11CVarArgType", "viewDidLoad"]
+- ["Ps11CVarArgType", ""]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "logoTopContraint"]
+- !private ["Ps28CustomDebugStringConvertible", "updateContraint"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "logoTopContraint"]
+- !private ["Ps23CustomStringConvertible", "updateContraint"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "logoTopContraint"]
+- !private ["Ps9Equatable", "updateContraint"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "logoTopContraint"]
+- !private ["Ps8Hashable", "updateContraint"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "logoTopContraint"]
+- !private ["PSo8NSCoding", "updateContraint"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "logoTopContraint"]
+- !private ["PSo26NSExtensionRequestHandling", "updateContraint"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "NSLayoutConstraint"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "logoTopContraint"]
+- !private ["CSo8NSObject", "updateContraint"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "logoTopContraint"]
+- !private ["PSo16NSObjectProtocol", "updateContraint"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- ["C30NavController_TabbarController20SignUpViewController", "NSLayoutConstraint"]
+- ["C30NavController_TabbarController20SignUpViewController", "deinit"]
+- ["C30NavController_TabbarController20SignUpViewController", "init"]
+- ["C30NavController_TabbarController20SignUpViewController", "logoTopContraint"]
+- !private ["C30NavController_TabbarController20SignUpViewController", "updateContraint"]
+- ["C30NavController_TabbarController20SignUpViewController", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "logoTopContraint"]
+- !private ["PSo21UIAppearanceContainer", "updateContraint"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "logoTopContraint"]
+- !private ["PSo18UIContentContainer", "updateContraint"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "logoTopContraint"]
+- !private ["PSo18UIFocusEnvironment", "updateContraint"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "NSLayoutConstraint"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "logoTopContraint"]
+- !private ["CSo11UIResponder", "updateContraint"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "logoTopContraint"]
+- !private ["PSo16UIStateRestoring", "updateContraint"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "logoTopContraint"]
+- !private ["PSo18UITraitEnvironment", "updateContraint"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo16UIViewController", "NSLayoutConstraint"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "logoTopContraint"]
+- !private ["CSo16UIViewController", "updateContraint"]
+- ["CSo16UIViewController", "viewDidLoad"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C30NavController_TabbarController18BaseViewController"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C30NavController_TabbarController20SignUpViewController"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/build/Debug-iphonesimulator/IQKeyboardManagerSwift.framework/Modules/IQKeyboardManagerSwift.swiftmodule/x86_64.swiftmodule"
+- "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/build/Debug-iphonesimulator/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-Swift.h"
+- "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/build/Debug-iphonesimulator/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-umbrella.h"
+- "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/build/Debug-iphonesimulator/IQKeyboardManagerSwift.framework/Modules/module.modulemap"
+interface-hash: "6017d3d01f08372c363a6a682274104b"

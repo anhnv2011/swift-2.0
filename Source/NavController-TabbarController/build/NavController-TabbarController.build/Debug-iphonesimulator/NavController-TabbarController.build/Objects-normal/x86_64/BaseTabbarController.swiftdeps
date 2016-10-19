@@ -1,0 +1,172 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BaseTabbarController"
+provides-nominal:
+- "C30NavController_TabbarController20BaseTabbarController"
+provides-member:
+- ["C30NavController_TabbarController20BaseTabbarController", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+depends-top-level:
+- "UITabBarController"
+- "UITabBarControllerDelegate"
+- "BaseTabbarController"
+depends-member:
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "tabBarController"]
+- ["Ps9AnyObject", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["Ps9AnyObject", "tabBarControllerSupportedInterfaceOrientations"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- ["C30NavController_TabbarController20BaseTabbarController", "deinit"]
+- ["C30NavController_TabbarController20BaseTabbarController", "init"]
+- ["C30NavController_TabbarController20BaseTabbarController", "tabBarController"]
+- ["C30NavController_TabbarController20BaseTabbarController", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["C30NavController_TabbarController20BaseTabbarController", "tabBarControllerSupportedInterfaceOrientations"]
+- ["C30NavController_TabbarController20BaseTabbarController", "viewDidLoad"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "tabBarController"]
+- ["Ps11CVarArgType", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["Ps11CVarArgType", "tabBarControllerSupportedInterfaceOrientations"]
+- ["Ps11CVarArgType", "viewDidLoad"]
+- ["Ps11CVarArgType", ""]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "tabBarController"]
+- ["Ps28CustomDebugStringConvertible", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["Ps28CustomDebugStringConvertible", "tabBarControllerSupportedInterfaceOrientations"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "tabBarController"]
+- ["Ps23CustomStringConvertible", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["Ps23CustomStringConvertible", "tabBarControllerSupportedInterfaceOrientations"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "tabBarController"]
+- ["Ps9Equatable", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["Ps9Equatable", "tabBarControllerSupportedInterfaceOrientations"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "tabBarController"]
+- ["Ps8Hashable", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["Ps8Hashable", "tabBarControllerSupportedInterfaceOrientations"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "tabBarController"]
+- ["PSo8NSCoding", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["PSo8NSCoding", "tabBarControllerSupportedInterfaceOrientations"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "tabBarController"]
+- ["PSo26NSExtensionRequestHandling", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["PSo26NSExtensionRequestHandling", "tabBarControllerSupportedInterfaceOrientations"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "tabBarController"]
+- ["CSo8NSObject", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["CSo8NSObject", "tabBarControllerSupportedInterfaceOrientations"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "tabBarController"]
+- ["PSo16NSObjectProtocol", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["PSo16NSObjectProtocol", "tabBarControllerSupportedInterfaceOrientations"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "tabBarController"]
+- ["PSo21UIAppearanceContainer", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["PSo21UIAppearanceContainer", "tabBarControllerSupportedInterfaceOrientations"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "tabBarController"]
+- ["PSo18UIContentContainer", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["PSo18UIContentContainer", "tabBarControllerSupportedInterfaceOrientations"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "tabBarController"]
+- ["PSo18UIFocusEnvironment", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["PSo18UIFocusEnvironment", "tabBarControllerSupportedInterfaceOrientations"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "tabBarController"]
+- ["CSo11UIResponder", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["CSo11UIResponder", "tabBarControllerSupportedInterfaceOrientations"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "tabBarController"]
+- ["PSo16UIStateRestoring", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["PSo16UIStateRestoring", "tabBarControllerSupportedInterfaceOrientations"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["CSo18UITabBarController", "init"]
+- ["CSo18UITabBarController", "tabBarController"]
+- ["CSo18UITabBarController", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["CSo18UITabBarController", "tabBarControllerSupportedInterfaceOrientations"]
+- ["CSo18UITabBarController", "viewDidLoad"]
+- ["CSo18UITabBarController", ""]
+- ["PSo26UITabBarControllerDelegate", "tabBarController"]
+- ["PSo26UITabBarControllerDelegate", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["PSo26UITabBarControllerDelegate", "tabBarControllerSupportedInterfaceOrientations"]
+- ["PSo26UITabBarControllerDelegate", ""]
+- ["PSo16UITabBarDelegate", "init"]
+- ["PSo16UITabBarDelegate", "tabBarController"]
+- ["PSo16UITabBarDelegate", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["PSo16UITabBarDelegate", "tabBarControllerSupportedInterfaceOrientations"]
+- ["PSo16UITabBarDelegate", "viewDidLoad"]
+- ["PSo16UITabBarDelegate", ""]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "tabBarController"]
+- ["PSo18UITraitEnvironment", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["PSo18UITraitEnvironment", "tabBarControllerSupportedInterfaceOrientations"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "tabBarController"]
+- ["CSo16UIViewController", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["CSo16UIViewController", "tabBarControllerSupportedInterfaceOrientations"]
+- ["CSo16UIViewController", "viewDidLoad"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C30NavController_TabbarController20BaseTabbarController"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "CSo18UITabBarController"
+- "PSo26UITabBarControllerDelegate"
+- "PSo16UITabBarDelegate"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/build/Debug-iphonesimulator/IQKeyboardManagerSwift.framework/Modules/IQKeyboardManagerSwift.swiftmodule/x86_64.swiftmodule"
+- "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/build/Debug-iphonesimulator/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-Swift.h"
+- "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/build/Debug-iphonesimulator/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-umbrella.h"
+- "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/build/Debug-iphonesimulator/IQKeyboardManagerSwift.framework/Modules/module.modulemap"
+interface-hash: "c78aa887f63ff022c69486332dabb6d0"

@@ -1,0 +1,16 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "e84ccc4f2606c5aa44aae8e2474dc83e"
+build_time: [522250582, 462868000]
+inputs:
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/NavController-TabbarController/CustomTextField.swift": [521970655, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/NavController-TabbarController/LoginViewController.swift": [522250528, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/NavController-TabbarController/YourBookController.swift": [522239817, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/NavController-TabbarController/HomeViewController.swift": [522211959, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/NavController-TabbarController/AppDelegate.swift": [522250582, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/NavController-TabbarController/CustomButton.swift": [521997648, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/NavController-TabbarController/ProfileViewController.swift": [521978373, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/NavController-TabbarController/SignUpViewController.swift": [522250552, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/NavController-TabbarController/BaseTabbarController.swift": [522250574, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/NavController-TabbarController/BaseNavigationController.swift": [522250467, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/NavController-TabbarController/BaseViewController.swift": [522250461, 0]
+  "/Volumes/Data/Techmaster-lessons/Tabbar-Nav/Source/NavController-TabbarController/NavController-TabbarController/Users.swift": [522047673, 0]

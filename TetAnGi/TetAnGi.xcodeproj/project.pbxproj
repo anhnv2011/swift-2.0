@@ -1,0 +1,388 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5732B5111C60C63000B12079 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5732B5101C60C63000B12079 /* AppDelegate.swift */; };
+		5732B5131C60C63000B12079 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5732B5121C60C63000B12079 /* ViewController.swift */; };
+		5732B5161C60C63000B12079 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5732B5141C60C63000B12079 /* Main.storyboard */; };
+		5732B5181C60C63000B12079 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5732B5171C60C63000B12079 /* Assets.xcassets */; };
+		5732B51B1C60C63000B12079 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5732B5191C60C63000B12079 /* LaunchScreen.storyboard */; };
+		5732B52C1C60C65600B12079 /* bachicuonraucu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5732B5231C60C65600B12079 /* bachicuonraucu.jpg */; };
+		5732B52D1C60C65600B12079 /* banhtrung.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5732B5241C60C65600B12079 /* banhtrung.jpg */; };
+		5732B52E1C60C65600B12079 /* canhmang.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5732B5251C60C65600B12079 /* canhmang.jpg */; };
+		5732B52F1C60C65600B12079 /* giocha.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5732B5261C60C65600B12079 /* giocha.jpg */; };
+		5732B5301C60C65600B12079 /* mut.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5732B5271C60C65600B12079 /* mut.jpg */; };
+		5732B5311C60C65600B12079 /* nemchua.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5732B5281C60C65600B12079 /* nemchua.jpg */; };
+		5732B5321C60C65600B12079 /* suonnuong.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5732B5291C60C65600B12079 /* suonnuong.jpg */; };
+		5732B5331C60C65600B12079 /* thitbokho.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5732B52A1C60C65600B12079 /* thitbokho.jpg */; };
+		5732B5341C60C65600B12079 /* thitga.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5732B52B1C60C65600B12079 /* thitga.jpg */; };
+		5732B5361C60C6D000B12079 /* CacMonAn.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5732B5351C60C6D000B12079 /* CacMonAn.plist */; };
+		5732B5391C60C8A100B12079 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5732B5381C60C8A100B12079 /* DataManager.swift */; };
+		5732B53B1C60C8D100B12079 /* MonAn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5732B53A1C60C8D100B12079 /* MonAn.swift */; };
+		57F3D65C1C61A56300BBCCC3 /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F3D65B1C61A56300BBCCC3 /* Cell.swift */; };
+		57F3D6641C61B13B00BBCCC3 /* logoLaunch@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 57F3D6631C61B13B00BBCCC3 /* logoLaunch@2x.png */; };
+		E972F8561D59B2C6000F168B /* ChiTietMonAn.plist in Resources */ = {isa = PBXBuildFile; fileRef = E972F8551D59B2C6000F168B /* ChiTietMonAn.plist */; };
+		E9FC63821D59C03500063E08 /* ShowDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FC63811D59C03500063E08 /* ShowDetailVC.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		5732B50D1C60C63000B12079 /* TetAnGi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TetAnGi.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5732B5101C60C63000B12079 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		5732B5121C60C63000B12079 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = TetAnGi/ViewController.swift; sourceTree = "<group>"; };
+		5732B5151C60C63000B12079 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		5732B5171C60C63000B12079 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5732B51A1C60C63000B12079 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		5732B51C1C60C63000B12079 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5732B5231C60C65600B12079 /* bachicuonraucu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bachicuonraucu.jpg; sourceTree = "<group>"; };
+		5732B5241C60C65600B12079 /* banhtrung.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = banhtrung.jpg; sourceTree = "<group>"; };
+		5732B5251C60C65600B12079 /* canhmang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = canhmang.jpg; sourceTree = "<group>"; };
+		5732B5261C60C65600B12079 /* giocha.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = giocha.jpg; sourceTree = "<group>"; };
+		5732B5271C60C65600B12079 /* mut.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mut.jpg; sourceTree = "<group>"; };
+		5732B5281C60C65600B12079 /* nemchua.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nemchua.jpg; sourceTree = "<group>"; };
+		5732B5291C60C65600B12079 /* suonnuong.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = suonnuong.jpg; sourceTree = "<group>"; };
+		5732B52A1C60C65600B12079 /* thitbokho.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thitbokho.jpg; sourceTree = "<group>"; };
+		5732B52B1C60C65600B12079 /* thitga.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thitga.jpg; sourceTree = "<group>"; };
+		5732B5351C60C6D000B12079 /* CacMonAn.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = CacMonAn.plist; sourceTree = "<group>"; };
+		5732B5381C60C8A100B12079 /* DataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
+		5732B53A1C60C8D100B12079 /* MonAn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MonAn.swift; sourceTree = "<group>"; };
+		57F3D65B1C61A56300BBCCC3 /* Cell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cell.swift; sourceTree = "<group>"; };
+		57F3D6631C61B13B00BBCCC3 /* logoLaunch@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "logoLaunch@2x.png"; path = "TetAnGi/Assets.xcassets/logoLaunch.imageset/logoLaunch@2x.png"; sourceTree = "<group>"; };
+		E972F8551D59B2C6000F168B /* ChiTietMonAn.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ChiTietMonAn.plist; sourceTree = "<group>"; };
+		E9FC63811D59C03500063E08 /* ShowDetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShowDetailVC.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5732B50A1C60C63000B12079 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5732B5041C60C63000B12079 = {
+			isa = PBXGroup;
+			children = (
+				5732B50F1C60C63000B12079 /* TetAnGi */,
+				5732B50E1C60C63000B12079 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5732B50E1C60C63000B12079 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5732B50D1C60C63000B12079 /* TetAnGi.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5732B50F1C60C63000B12079 /* TetAnGi */ = {
+			isa = PBXGroup;
+			children = (
+				5732B5221C60C63500B12079 /* Model */,
+				57F3D6591C619D5300BBCCC3 /* ViewController */,
+				5732B5371C60C82E00B12079 /* Photos */,
+				5732B5101C60C63000B12079 /* AppDelegate.swift */,
+				5732B5171C60C63000B12079 /* Assets.xcassets */,
+				5732B5191C60C63000B12079 /* LaunchScreen.storyboard */,
+				5732B51C1C60C63000B12079 /* Info.plist */,
+			);
+			path = TetAnGi;
+			sourceTree = "<group>";
+		};
+		5732B5221C60C63500B12079 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				5732B5351C60C6D000B12079 /* CacMonAn.plist */,
+				E972F8551D59B2C6000F168B /* ChiTietMonAn.plist */,
+				5732B5381C60C8A100B12079 /* DataManager.swift */,
+				5732B53A1C60C8D100B12079 /* MonAn.swift */,
+			);
+			name = Model;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		5732B5371C60C82E00B12079 /* Photos */ = {
+			isa = PBXGroup;
+			children = (
+				57F3D6631C61B13B00BBCCC3 /* logoLaunch@2x.png */,
+				5732B5231C60C65600B12079 /* bachicuonraucu.jpg */,
+				5732B5241C60C65600B12079 /* banhtrung.jpg */,
+				5732B5251C60C65600B12079 /* canhmang.jpg */,
+				5732B5261C60C65600B12079 /* giocha.jpg */,
+				5732B5271C60C65600B12079 /* mut.jpg */,
+				5732B5281C60C65600B12079 /* nemchua.jpg */,
+				5732B5291C60C65600B12079 /* suonnuong.jpg */,
+				5732B52A1C60C65600B12079 /* thitbokho.jpg */,
+				5732B52B1C60C65600B12079 /* thitga.jpg */,
+			);
+			name = Photos;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		57F3D6591C619D5300BBCCC3 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				5732B5121C60C63000B12079 /* ViewController.swift */,
+				E9FC63811D59C03500063E08 /* ShowDetailVC.swift */,
+				5732B5141C60C63000B12079 /* Main.storyboard */,
+				57F3D65B1C61A56300BBCCC3 /* Cell.swift */,
+			);
+			name = ViewController;
+			path = ..;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5732B50C1C60C63000B12079 /* TetAnGi */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5732B51F1C60C63000B12079 /* Build configuration list for PBXNativeTarget "TetAnGi" */;
+			buildPhases = (
+				5732B5091C60C63000B12079 /* Sources */,
+				5732B50A1C60C63000B12079 /* Frameworks */,
+				5732B50B1C60C63000B12079 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TetAnGi;
+			productName = TetAnGi;
+			productReference = 5732B50D1C60C63000B12079 /* TetAnGi.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5732B5051C60C63000B12079 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = DangCan;
+				TargetAttributes = {
+					5732B50C1C60C63000B12079 = {
+						CreatedOnToolsVersion = 7.2;
+					};
+				};
+			};
+			buildConfigurationList = 5732B5081C60C63000B12079 /* Build configuration list for PBXProject "TetAnGi" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5732B5041C60C63000B12079;
+			productRefGroup = 5732B50E1C60C63000B12079 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5732B50C1C60C63000B12079 /* TetAnGi */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5732B50B1C60C63000B12079 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5732B51B1C60C63000B12079 /* LaunchScreen.storyboard in Resources */,
+				5732B52F1C60C65600B12079 /* giocha.jpg in Resources */,
+				5732B52C1C60C65600B12079 /* bachicuonraucu.jpg in Resources */,
+				5732B52E1C60C65600B12079 /* canhmang.jpg in Resources */,
+				5732B5301C60C65600B12079 /* mut.jpg in Resources */,
+				5732B5331C60C65600B12079 /* thitbokho.jpg in Resources */,
+				5732B52D1C60C65600B12079 /* banhtrung.jpg in Resources */,
+				5732B5311C60C65600B12079 /* nemchua.jpg in Resources */,
+				5732B5361C60C6D000B12079 /* CacMonAn.plist in Resources */,
+				5732B5181C60C63000B12079 /* Assets.xcassets in Resources */,
+				5732B5321C60C65600B12079 /* suonnuong.jpg in Resources */,
+				5732B5341C60C65600B12079 /* thitga.jpg in Resources */,
+				57F3D6641C61B13B00BBCCC3 /* logoLaunch@2x.png in Resources */,
+				E972F8561D59B2C6000F168B /* ChiTietMonAn.plist in Resources */,
+				5732B5161C60C63000B12079 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5732B5091C60C63000B12079 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E9FC63821D59C03500063E08 /* ShowDetailVC.swift in Sources */,
+				5732B5131C60C63000B12079 /* ViewController.swift in Sources */,
+				5732B5391C60C8A100B12079 /* DataManager.swift in Sources */,
+				57F3D65C1C61A56300BBCCC3 /* Cell.swift in Sources */,
+				5732B5111C60C63000B12079 /* AppDelegate.swift in Sources */,
+				5732B53B1C60C8D100B12079 /* MonAn.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		5732B5141C60C63000B12079 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5732B5151C60C63000B12079 /* Base */,
+			);
+			name = Main.storyboard;
+			path = TetAnGi;
+			sourceTree = "<group>";
+		};
+		5732B5191C60C63000B12079 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5732B51A1C60C63000B12079 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5732B51D1C60C63000B12079 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5732B51E1C60C63000B12079 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5732B5201C60C63000B12079 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = TetAnGi/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = nvt.TetAnGi;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5732B5211C60C63000B12079 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = TetAnGi/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = nvt.TetAnGi;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5732B5081C60C63000B12079 /* Build configuration list for PBXProject "TetAnGi" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5732B51D1C60C63000B12079 /* Debug */,
+				5732B51E1C60C63000B12079 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5732B51F1C60C63000B12079 /* Build configuration list for PBXNativeTarget "TetAnGi" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5732B5201C60C63000B12079 /* Debug */,
+				5732B5211C60C63000B12079 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5732B5051C60C63000B12079 /* Project object */;
+}

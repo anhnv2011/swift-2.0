@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="bgK-NC-7l7">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--Master TableVC-->
+        <scene sceneID="dpd-em-wCg">
+            <objects>
+                <tableViewController id="dRO-nh-GhW" customClass="MasterTableVC" customModule="CustomizeTableViewCell" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="100" sectionHeaderHeight="28" sectionFooterHeight="28" id="mOJ-ES-09h">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <imageView key="tableHeaderView" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="EPL Banner.jpg" id="RCI-9y-BrJ">
+                            <rect key="frame" x="0.0" y="64" width="375" height="52"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <imageView key="tableFooterView" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="EPL.jpg" id="aJ5-Dx-wAH">
+                            <rect key="frame" x="0.0" y="244" width="375" height="102"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell" rowHeight="100" id="VZN-wY-swy" customClass="CustomCellMaster" customModule="CustomizeTableViewCell" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="144" width="375" height="100"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="VZN-wY-swy" id="bkh-C0-gpx">
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="99.5"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Manchester United" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="290-iq-QlM">
+                                            <rect key="frame" x="96" y="8" width="271" height="21"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Stadium:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wkz-U7-0uR">
+                                            <rect key="frame" x="96" y="34" width="72" height="21"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Old Tranfford" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hc2-zB-1wP">
+                                            <rect key="frame" x="176" y="34" width="121" height="21"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Star Rate" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pAo-86-HuG">
+                                            <rect key="frame" x="96" y="60" width="77" height="21"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="5stars.png" translatesAutoresizingMaskIntoConstraints="NO" id="Xee-Zd-ePE">
+                                            <rect key="frame" x="177" y="60" width="118" height="25"/>
+                                        </imageView>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="MU.png" translatesAutoresizingMaskIntoConstraints="NO" id="DFN-Nv-lEg">
+                                            <rect key="frame" x="8" y="8" width="80" height="77"/>
+                                        </imageView>
+                                    </subviews>
+                                </tableViewCellContentView>
+                                <color key="backgroundColor" red="0.52446007853403143" green="0.52446007853403143" blue="0.52446007853403143" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <outlet property="imageViewLogo" destination="DFN-Nv-lEg" id="JtC-MK-Ick"/>
+                                    <outlet property="imageViewStarRatting" destination="Xee-Zd-ePE" id="21c-4Y-F40"/>
+                                    <outlet property="labelFootballClub" destination="290-iq-QlM" id="Xjg-Qq-YP7"/>
+                                    <outlet property="labelStadium" destination="hc2-zB-1wP" id="lkK-b6-5y5"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="dRO-nh-GhW" id="SLf-7f-BMs"/>
+                            <outlet property="delegate" destination="dRO-nh-GhW" id="C5P-kg-h9r"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" id="DPX-0o-KxU"/>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Jyz-XT-R14" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1091.5" y="50.5"/>
+        </scene>
+        <!--DetailVC-->
+        <scene sceneID="IKg-IZ-TbY">
+            <objects>
+                <viewController storyboardIdentifier="DetailVC" id="CXy-CT-m5n" customClass="DetailVC" customModule="CustomizeTableViewCell" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="TeC-pF-HK0"/>
+                        <viewControllerLayoutGuide type="bottom" id="Pnp-R3-nSb"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="pu1-gJ-IMs">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="kjj-OG-orX">
+                                <rect key="frame" x="-4" y="0.0" width="383" height="667"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="Pnp-R3-nSb" firstAttribute="top" secondItem="kjj-OG-orX" secondAttribute="bottom" id="ZcV-yP-vFy"/>
+                            <constraint firstItem="kjj-OG-orX" firstAttribute="leading" secondItem="pu1-gJ-IMs" secondAttribute="leadingMargin" constant="-20" id="ciF-zP-3Lu"/>
+                            <constraint firstItem="kjj-OG-orX" firstAttribute="top" secondItem="pu1-gJ-IMs" secondAttribute="topMargin" id="mYt-cb-c0T"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="kjj-OG-orX" secondAttribute="trailing" constant="-20" id="s7e-W4-pik"/>
+                        </constraints>
+                    </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
+                    <connections>
+                        <outlet property="imageView" destination="kjj-OG-orX" id="FJh-mx-ySJ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="oKE-sa-Zlb" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1532.5" y="50.5"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="Hy2-Xf-cYc">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="bgK-NC-7l7" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="ji8-Ai-WFk">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="dRO-nh-GhW" kind="relationship" relationship="rootViewController" id="jaU-Mi-qDH"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Bxo-3q-MdO" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="279" y="50"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="5stars.png" width="50" height="15"/>
+        <image name="EPL Banner.jpg" width="1023" height="58.080001831054688"/>
+        <image name="EPL.jpg" width="1532" height="1196"/>
+        <image name="MU.png" width="192" height="192"/>
+    </resources>
+</document>

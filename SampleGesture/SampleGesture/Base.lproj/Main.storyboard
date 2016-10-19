@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15D21" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="SampleGesture" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bgchristmas.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="bNn-tz-167">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="images.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="HVi-Op-yat" customClass="Item" customModule="SampleGesture" customModuleProvider="target">
+                                <rect key="frame" x="20" y="29" width="133" height="86"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="86" id="9aj-PP-RsQ"/>
+                                    <constraint firstAttribute="width" constant="93" id="Ctz-te-zlN"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="93" id="vTq-4d-BSF"/>
+                                    <constraint firstAttribute="height" constant="86" id="wcR-fA-kaM"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="images2.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="QmH-AO-fum" customClass="Item" customModule="SampleGesture" customModuleProvider="target">
+                                <rect key="frame" x="20" y="140" width="133" height="86"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="59" id="4h9-Gu-raV"/>
+                                    <constraint firstAttribute="width" constant="93" id="Wra-Jd-b4y"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="HVi-Op-yat" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="13" id="3Vs-5G-phK"/>
+                            <constraint firstItem="bNn-tz-167" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="5Ha-cc-ScU"/>
+                            <constraint firstItem="HVi-Op-yat" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="13" id="BtE-Le-Lkw"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="bNn-tz-167" secondAttribute="bottom" id="Evx-Gf-4WB"/>
+                            <constraint firstAttribute="trailing" secondItem="bNn-tz-167" secondAttribute="trailing" id="SE8-BO-iKR"/>
+                            <constraint firstItem="bNn-tz-167" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="VA3-na-bKZ"/>
+                            <constraint firstItem="QmH-AO-fum" firstAttribute="top" secondItem="HVi-Op-yat" secondAttribute="bottom" constant="25" id="gEY-cu-9dS"/>
+                            <constraint firstItem="HVi-Op-yat" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="63" id="hvL-Dm-Gus"/>
+                            <constraint firstItem="HVi-Op-yat" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="63" id="z3k-c3-a1r"/>
+                            <constraint firstItem="QmH-AO-fum" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="13" id="zI9-6N-Tds"/>
+                        </constraints>
+                    </view>
+                    <nil key="simulatedStatusBarMetrics"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="305" y="387"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="bgchristmas.jpg" width="1000" height="1778"/>
+        <image name="images.jpeg" width="204" height="204"/>
+        <image name="images2.jpeg" width="225" height="225"/>
+    </resources>
+</document>
